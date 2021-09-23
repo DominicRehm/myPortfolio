@@ -1,6 +1,9 @@
 <h1>My Portfolio</h1>
 
-Here you can find my actual portfolio.
+Welcome to my own and first portfolio here on github.
+
+Landing Page -> Here you can find a short video about my person and som other informations.
+Projects Page -> Here you can find my projects with links to github and preview.
 
 <h2>Roadmap for future improvements</h2>
 
